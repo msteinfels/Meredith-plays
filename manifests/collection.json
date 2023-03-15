@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/MeredithTest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest1.json",
+    "label" : "Test_Sonia Landy Sheridan"
   } ]
 }
