@@ -22,7 +22,7 @@
     "canvases" : [ {
       "@id" : "http://45909855-1615-4b00-b7f3-8022539df75e",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Page 1",
       "height" : 4000,
       "width" : 3038,
       "images" : [ {
@@ -52,7 +52,7 @@
     }, {
       "@id" : "http://c1dc970d-29d8-4431-b0b9-0518156f9b04",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Page 2",
       "height" : 4000,
       "width" : 2959,
       "images" : [ {
@@ -78,7 +78,7 @@
     }, {
       "@id" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Page 3",
       "height" : 4000,
       "width" : 3013,
       "images" : [ {
