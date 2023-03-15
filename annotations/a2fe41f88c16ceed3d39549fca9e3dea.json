@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Intersection of man-made and natural systems. man [unintelligible] man-made planes... natural systems planes ride in multi-dimensional time...\nSonia",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Intersection of man-made and natural systems. man [unintelligible] man-made planes... natural systems planes ride in multi-dimensional time...</p>\n<p>Sonia</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/112114076",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-15T19:03:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1678906995665",
+    "dcterms:modified" : "2023-03-15T19:03:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1484,2195,979,552"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1483.94182,2194.84999h489.55273v0h489.55273v275.90909v275.90909h-489.55273h-489.55273v-275.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_42a8f6d2-49b3-44e6-8594-3071f6d52ad4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "4.12.83\n11:40 AM",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>4.12.83</p>\n<p>11:40 AM</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/112114076",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-15T19:06:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1678907162350",
+    "dcterms:modified" : "2023-03-15T19:06:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2190,230,432,244"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2190.49034,229.88406h215.97585v0h215.97585v121.77295v121.77295h-215.97585h-215.97585v-121.77295z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7bc7dbf0-c1e4-4944-ba18-fc14486b3562\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Intersection",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Intersection</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/112114076",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-15T18:59:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1678906790556",
+    "dcterms:modified" : "2023-03-15T19:00:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=693,1651,420,115"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M693.36364,1651.31544h210.09091v0h210.09091v57.36364v57.36364h-210.09091h-210.09091v-57.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_c7a9f257-65f2-4362-8d26-f371fc8947e3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Trajectory in phase space as the intersection of two variant surfaces.\n\"for integrable systems, a trajectory may be viewed as the \"intersection\" of [illegible] variants of motion.\" p. 44 classical dynamics [illegible], 1980",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Trajectory in phase space as the intersection of two variant surfaces.</p>\n<p>\"for integrable systems, a trajectory may be viewed as the \"intersection\" of [illegible] variants of motion.\" p. 44 classical dynamics [illegible], 1980</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/112114076",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-15T19:02:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1678906932799",
+    "dcterms:modified" : "2023-03-15T19:02:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=507,1758,1939,462"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M506.81818,1758.22454h969.72727v0h969.72727v231.18182v231.18182h-969.72727h-969.72727v-231.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dd1bb93c-805d-4320-811f-ab40da068918\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0"
+    } ]
+  } ],
+  "@id" : "https://msteinfels.github.io/Meredith-plays/annotations/a2fe41f88c16ceed3d39549fca9e3dea.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
