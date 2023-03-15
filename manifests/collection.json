@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest1.json",
     "label" : "Test_Sonia Landy Sheridan"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest2.json",
+    "label" : "Test_Sonia Landy Sheridan"
   } ]
 }
