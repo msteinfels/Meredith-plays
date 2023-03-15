@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3038,
+    "id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr/canvas/",
+    "label" : {
+      "none" : [ "d-2004-84-654a_001_cr" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 125
+            }, {
+              "width" : 190,
+              "height" : 250
+            }, {
+              "width" : 380,
+              "height" : 500
+            }, {
+              "width" : 760,
+              "height" : 1000
+            }, {
+              "width" : 1519,
+              "height" : 2000
+            }, {
+              "width" : 3038,
+              "height" : 4000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3038,
+            "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3038,
+          "id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4000
+        },
+        "target" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr/canvas/"
+      } ]
+    } ],
+    "height" : 4000
+  }, {
     "width" : 2700,
     "id" : "https://msteinfels.github.io/Meredith-plays/images/el-996-25-30244_001-16/canvas/",
     "label" : {
