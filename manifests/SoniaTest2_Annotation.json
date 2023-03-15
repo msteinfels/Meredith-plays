@@ -75,34 +75,37 @@
         "on" : "http://c1dc970d-29d8-4431-b0b9-0518156f9b04"
       } ],
       "related" : ""
-    }, {
-      "@id" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0",
-      "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
-      "height" : 4000,
-      "width" : 3013,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://8c1c10d5-81d0-4186-b0f1-f4cb304480cf",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654aaa_001_cr/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654aaa_001_cr",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 4000,
-          "width" : 3013
-        },
-        "on" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0"
-      } ],
-      "related" : ""
+    } ],
+    "otherContent" : [ {
+      "@id" : "https://msteinfels.github.io/Meredith-plays/annotations/37fca9edf290ff4852adcc39621645c1.json",
+      "@type" : "sc:AnnotationList",
+      "label" : "Annotation"
     } ]
-  } ],
-  "structures" : [ ],
-  "viewingDirection" : "left-to-right"
+  }, {
+    "@id" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0",
+    "@type" : "sc:Canvas",
+    "label" : "Empty canvas",
+    "height" : 4000,
+    "width" : 3013,
+    "images" : [ {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "http://8c1c10d5-81d0-4186-b0f1-f4cb304480cf",
+      "@type" : "oa:Annotation",
+      "motivation" : "sc:painting",
+      "resource" : {
+        "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654aaa_001_cr/full/full/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654aaa_001_cr",
+          "profile" : "http://iiif.io/api/image/2/level0.json"
+        },
+        "height" : 4000,
+        "width" : 3013
+      },
+      "on" : "http://174cc7ef-3a89-48fa-85d5-d1edb1fda0f0"
+    } ],
+    "related" : ""
+  } ]
 }
