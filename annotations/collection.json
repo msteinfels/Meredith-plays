@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://msteinfels.github.io/Meredith-plays/annotations/37fca9edf290ff4852adcc39621645c1.json" ],
+  "otherContent" : [ "https://msteinfels.github.io/Meredith-plays/annotations/37fca9edf290ff4852adcc39621645c1.json", "https://msteinfels.github.io/Meredith-plays/annotations/a2fe41f88c16ceed3d39549fca9e3dea.json" ],
   "@id" : "https://msteinfels.github.io/Meredith-plays/annotations/collection.json",
   "label" : "All annotations loaded in msteinfels/Meredith-plays project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
