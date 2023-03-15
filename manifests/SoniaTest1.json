@@ -1,0 +1,77 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/SoniaTest1.json",
+  "@type" : "sc:Manifest",
+  "label" : "Test_Sonia Landy Sheridan",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  }, {
+    "@value" : "A test compiliation of Sonia Landy Sheridan's brown notebook."
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Sonia Landy Sheridan",
+  "sequences" : [ {
+    "@id" : "http://5d66904e-f7de-43c7-9df0-b20d7fb52245",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://45909855-1615-4b00-b7f3-8022539df75e",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4000,
+      "width" : 3038,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a761481b-6f55-4819-bab9-1cf042d89054",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654a_001_cr",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 3038
+        },
+        "on" : "http://45909855-1615-4b00-b7f3-8022539df75e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c1dc970d-29d8-4431-b0b9-0518156f9b04",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4000,
+      "width" : 2959,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9db6f1de-f93c-467b-b8fd-30c704f9a3b6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654aa_001_cr/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://msteinfels.github.io/Meredith-plays/images/d-2004-84-654aa_001_cr",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 2959
+        },
+        "on" : "http://c1dc970d-29d8-4431-b0b9-0518156f9b04"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
