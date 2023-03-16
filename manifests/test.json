@@ -1,0 +1,159 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/Meredith-plays/manifests/test.json",
+  "@type" : "sc:Manifest",
+  "label" : "N/A",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "EL-S-998-42-8_001.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "2407"
+  }, {
+    "label" : "Pixel width",
+    "value" : "2515"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-943783863"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "46242"
+  }, {
+    "label" : "Object Number",
+    "value" : "2016.64.110"
+  }, {
+    "label" : "Object Name",
+    "value" : "Sculpture"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Unknown Italian, Italian"
+  }, {
+    "label" : "Date Label",
+    "value" : "about 1575"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "1570"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "1580"
+  }, {
+    "label" : "Nationality",
+    "value" : "Italian"
+  }, {
+    "label" : "Title",
+    "value" : "Three Tritons"
+  }, {
+    "label" : "Research Area",
+    "value" : "Sculpture"
+  }, {
+    "label" : "Period",
+    "value" : "1400-1600"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: Italy, Europe"
+  }, {
+    "label" : "Medium",
+    "value" : "Silver with gilding\\r\\n"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Overall: 3 1/4 × 3 5/16 × 5/16 in. (8.3 × 8.4 × 0.8 cm) | Weight: 88 g (0.2 lb.)"
+  }, {
+    "label" : "Subjects",
+    "value" : "Classical Mythology and Ancient History | Water | Triton | Mermen"
+  }, {
+    "label" : "Exhibition History",
+    "value" : "Ivan Albright Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, September 3, 1999-September 22, 2000. | Renaissance and Mannerist Plaquettes and Medals from the Collection of Roger Arvid Anderson, Class of 1968, Ivan Albright Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, September 19-November 21, 2013."
+  }, {
+    "label" : "Publication History",
+    "value" : "Roger Arvid Anderson, The Roger Arvid Anderson Collection, Medals, Medallions, Plaquettes and Small Reliefs, Paintings, Sculpture, Works on Paper and Textiles, San Francisco: Roger Arvid Anderson (published privately), design by David L. Wilson, 2015, p. 183."
+  }, {
+    "label" : "Credit Line",
+    "value" : "Roger Arvid Anderson Collection - 250th Anniversary Gift, 1769-2019"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "Public Domain"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Image View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/17045/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 167,
+    "width" : 175,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/17045",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/46242/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/46242/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 3520,
+      "width" : 3520,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/77255/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/77255",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/46242/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/77255/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3520,
+          "width" : 3520,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/77255",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/46242/canvas/0"
+      } ]
+    } ]
+  } ]
+}
